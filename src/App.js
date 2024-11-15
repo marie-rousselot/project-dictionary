@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <img src={logo} className="App-logo img-fluid" alt="logo" />
+          <img src={logo} className="App-logo img-fluid" alt="CodingPro logo" />
         </header>
         <main>
           <Dictionary defaultKeyword="Sunrise"/>
